@@ -1,0 +1,18 @@
+{
+    "users": [
+        {
+            "Name": "mk",
+            "Age": 21,
+            "Gender": "mk",
+            "Disease": "GERD",
+            "Sympts": [
+                "chest_pain",
+                "stomach_pain",
+                "acidity",
+                "ulcers_on_tongue",
+                "vomiting",
+                "cough"
+            ]
+        }
+    ]
+}
